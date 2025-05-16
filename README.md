@@ -9,8 +9,7 @@ A modern weather application built with **React** that automatically detects you
 - 📍 Auto-detects your current location using the browser's geolocation API.
 - 🌡️ Fetches live weather data including temperature, weather condition, humidity, wind speed, etc.
 - 🔄 Refreshes data dynamically on reload.
-- 💻 Fully responsive UI built with React.
-- 🧭 Uses OpenWeatherMap API (or similar) for weather data.
+- 🧭 Uses OpenWeatherMap API for weather data.
 
 ---
 
